@@ -2,6 +2,8 @@
 
 This project allows users to upload PDF files and interact with them using AI-powered chat through the **Mistral** model. The application leverages multiple technologies including **Streamlit**, **Ollama** for AI interaction, **LangChain** for text embeddings, and **PyPDF2** for extracting text from PDFs.
 
+![Image](https://github.com/user-attachments/assets/1d252439-ae9e-445f-b203-b070e6e0e6b1)
+
 ### Features:
 - Upload multiple PDFs to extract and analyze the text.
 - Ask questions based on the content of the uploaded PDFs.
