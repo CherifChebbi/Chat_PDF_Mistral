@@ -1,0 +1,8 @@
+streamlit==1.18.0
+ollama==0.0.4
+PyPDF2==2.10.0
+langdetect==1.0.9
+langchain==0.0.159
+faiss-cpu==1.7.2
+huggingface-hub==0.15.1
+sentence-transformers==2.2.2
