@@ -21,6 +21,6 @@ This project allows users to upload PDF files and interact with them using AI-po
 - **LangDetect**: Language detection for supporting both French and English languages.
 
 ---
-**Install the required dependencies:**
-pip install -r requirements.txt
+**Install the required dependencies**:pip install -r requirements.txt
+
 ---
